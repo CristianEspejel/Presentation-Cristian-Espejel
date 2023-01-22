@@ -114,4 +114,8 @@ footer .social-icons #Twitter{
         font-weight: bold;
         width: calc(100% - 80px);
     }
+    .container-main{
+        padding: 15%;
+        width: 100%;
+    }
 }
